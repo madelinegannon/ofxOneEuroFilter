@@ -9,7 +9,7 @@
  * Ingo Randolf
  *
  */
-
+#define _USE_MATH_DEFINES
 #include "ofxOneEuroFilter.h"
 
 // -----------------------------------------------------------------
